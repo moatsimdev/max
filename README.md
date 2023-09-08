@@ -55,7 +55,7 @@ max.on('userReady', () => console.log(`Logged in : ${max.me.username} `));
 
 ## Help 
 
-If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle nudge in the right direction, please don't hesitate to join our official [zoblox.js Server][discord].
+If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle nudge in the right direction, please don't hesitate to join our official [maxblox.js Server][discord].
 
 ## Developers
 
