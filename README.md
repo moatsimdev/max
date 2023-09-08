@@ -61,6 +61,6 @@ If you don't understand something in the documentation, you are experiencing pro
 
 - [Moatsim](https://github.com/moatsimdev)
 
-[discord]: [https://discord.gg/tk8GkmeVH7](https://discord.gg/tk8GkmeVH7)
+[discord]: https://discord.gg/tk8GkmeVH7
 [source]: https://github.com/moatsimdev/maxblox.js
 [npm]: https://npmjs.org/package/maxblox.js
